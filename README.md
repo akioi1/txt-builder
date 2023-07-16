@@ -1,5 +1,5 @@
 # txt-builder
-一个图片文字生成器
+一个图片文字生成器,将多个图片拼接在一起生成一个“CSP RP++"的字样的图片
 
 # 前言
 国际惯例，先扔仓库地址[link](https://github.com/akioi1/txt-builder)，另外，不喜勿喷
